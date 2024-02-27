@@ -15,3 +15,5 @@ Cohort X
 **Milestone 1: $xxx** - xxx.
 **Milestone 2: $xxx** - xxx.
 **Milestone 3: $xxx** - xxx.
+
+**_Total grant request: $x,xxx_**
