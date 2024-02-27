@@ -9,6 +9,7 @@ assignees: ''
 
 Cohort X
 **Discord Name:** xxx
+
 **Project Description:** xxx
 
 **Upfront money: $xxx**
